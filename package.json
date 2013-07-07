@@ -1,0 +1,19 @@
+{
+  "name" : "sqstask"
+, "description" : "SQS Task plugin for TaskScheduler.js"
+, "version" : "0.1.0"
+, "author"  : {
+    "name"  : "Irakli Nadareishvili"
+  , "email" : "irakli@gmail.com"
+  }
+, "dependencies": {
+    "underscore"        : "1.x"
+  , "awssum"            : "1.x"
+  , "awssum-amazon-sqs" : "1.x"
+  , "awssum-amazon-s3": "1.1.x"
+  }
+, "repository" : {
+    "type" : "git"
+  , "url" : "git://github.com/publicmediaplatform/sqstask.git"
+  }
+}

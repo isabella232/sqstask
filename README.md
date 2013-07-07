@@ -1,4 +1,4 @@
 sqstask
 =======
 
-SQS Task for Task Scheduler
+SQS Task plugin for [Task Scheduler](https://github.com/publicmediaplatform/taskscheduler)

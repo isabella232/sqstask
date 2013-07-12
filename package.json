@@ -10,7 +10,6 @@
     "underscore"        : "1.x"
   , "awssum"            : "1.x"
   , "awssum-amazon-sqs" : "1.x"
-  , "awssum-amazon-s3": "1.1.x"
   }
 , "repository" : {
     "type" : "git"

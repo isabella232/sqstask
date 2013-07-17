@@ -1,7 +1,7 @@
 {
   "name" : "sqstask"
 , "description" : "SQS Task plugin for TaskScheduler.js"
-, "version" : "0.2.1"
+, "version" : "0.2.2"
 , "license" : "MIT"
 , "author"  : {
     "name"  : "Irakli Nadareishvili"

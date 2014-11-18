@@ -1,19 +1,25 @@
 {
-  "name" : "sqstask"
-, "description" : "SQS Task plugin for TaskScheduler.js"
-, "version" : "0.2.4"
-, "license" : "MIT"
-, "author"  : {
-    "name"  : "Irakli Nadareishvili"
-  , "email" : "irakli@gmail.com"
-  }
-, "dependencies": {
-    "underscore"        : "1.x"
-  , "awssum"            : "1.x"
-  , "awssum-amazon-sqs" : "1.x"
-  }
-, "repository" : {
-    "type" : "git"
-  , "url" : "git://github.com/publicmediaplatform/sqstask.git"
+  "name": "sqstask",
+  "description": "SQS Task plugin for TaskScheduler.js",
+  "version": "0.2.4",
+  "license": "MIT",
+  "author": {
+    "name": "Irakli Nadareishvili",
+    "email": "irakli@gmail.com"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.0.27",
+    "awssum": "1.x",
+    "awssum-amazon-sqs": "1.x",
+    "underscore": "1.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/publicmediaplatform/sqstask.git"
+  },
+  "devDependencies": {
+    "config": "^1.8.1",
+    "mocha": "^2.0.1",
+    "should": "^4.3.0"
   }
 }

@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/publicmediaplatform/sqstask.git"
+    "url": "git://github.com/npr/sqstask.git"
   },
   "devDependencies": {
     "config": "^1.8.1",

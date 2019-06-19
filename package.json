@@ -11,7 +11,7 @@
     "aws-sdk": "^2.0.27",
     "awssum": "1.x",
     "awssum-amazon-sqs": "1.x",
-    "lodash": "3.x",
+    "lodash": "4.x",
     "underscore": "1.x"
   },
   "repository": {
